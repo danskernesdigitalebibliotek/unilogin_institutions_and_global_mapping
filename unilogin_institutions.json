@@ -1,0 +1,5072 @@
+{
+    "101001": {
+        "id": "101001",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101005": {
+        "id": "101005",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101007": {
+        "id": "101007",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101011": {
+        "id": "101011",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101012": {
+        "id": "101012",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101015": {
+        "id": "101015",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101017": {
+        "id": "101017",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101019": {
+        "id": "101019",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101020": {
+        "id": "101020",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101021": {
+        "id": "101021",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101022": {
+        "id": "101022",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101029": {
+        "id": "101029",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101045": {
+        "id": "101045",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101047": {
+        "id": "101047",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101049": {
+        "id": "101049",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101053": {
+        "id": "101053",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101058": {
+        "id": "101058",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101062": {
+        "id": "101062",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101063": {
+        "id": "101063",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101070": {
+        "id": "101070",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101074": {
+        "id": "101074",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101075": {
+        "id": "101075",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101080": {
+        "id": "101080",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101090": {
+        "id": "101090",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101093": {
+        "id": "101093",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101094": {
+        "id": "101094",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101098": {
+        "id": "101098",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101124": {
+        "id": "101124",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101132": {
+        "id": "101132",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101138": {
+        "id": "101138",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101151": {
+        "id": "101151",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101153": {
+        "id": "101153",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101155": {
+        "id": "101155",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101157": {
+        "id": "101157",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101158": {
+        "id": "101158",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101181": {
+        "id": "101181",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101525": {
+        "id": "101525",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101533": {
+        "id": "101533",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101538": {
+        "id": "101538",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101540": {
+        "id": "101540",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101543": {
+        "id": "101543",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101566": {
+        "id": "101566",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101580": {
+        "id": "101580",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101591": {
+        "id": "101591",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101619": {
+        "id": "101619",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101910": {
+        "id": "101910",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "101911": {
+        "id": "101911",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "151003": {
+        "id": "151003",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "151028": {
+        "id": "151028",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "151030": {
+        "id": "151030",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "153013": {
+        "id": "153013",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "153018": {
+        "id": "153018",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "153019": {
+        "id": "153019",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "153020": {
+        "id": "153020",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "157001": {
+        "id": "157001",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157002": {
+        "id": "157002",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157003": {
+        "id": "157003",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157005": {
+        "id": "157005",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157007": {
+        "id": "157007",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157008": {
+        "id": "157008",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157009": {
+        "id": "157009",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157010": {
+        "id": "157010",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157011": {
+        "id": "157011",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157012": {
+        "id": "157012",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157013": {
+        "id": "157013",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157015": {
+        "id": "157015",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157018": {
+        "id": "157018",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157019": {
+        "id": "157019",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157020": {
+        "id": "157020",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157034": {
+        "id": "157034",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157040": {
+        "id": "157040",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157047": {
+        "id": "157047",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "157048": {
+        "id": "157048",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "157210": {
+        "id": "157210",
+        "municipality": {
+            "kommunenr": "157"
+        }
+    },
+    "159001": {
+        "id": "159001",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159002": {
+        "id": "159002",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159004": {
+        "id": "159004",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159005": {
+        "id": "159005",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159006": {
+        "id": "159006",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159008": {
+        "id": "159008",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159009": {
+        "id": "159009",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159010": {
+        "id": "159010",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159012": {
+        "id": "159012",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159013": {
+        "id": "159013",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159038": {
+        "id": "159038",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159039": {
+        "id": "159039",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "159210": {
+        "id": "159210",
+        "municipality": {
+            "kommunenr": "159"
+        }
+    },
+    "161002": {
+        "id": "161002",
+        "municipality": {
+            "kommunenr": "161"
+        }
+    },
+    "161003": {
+        "id": "161003",
+        "municipality": {
+            "kommunenr": "161"
+        }
+    },
+    "161004": {
+        "id": "161004",
+        "municipality": {
+            "kommunenr": "161"
+        }
+    },
+    "161010": {
+        "id": "161010",
+        "municipality": {
+            "kommunenr": "161"
+        }
+    },
+    "163000": {
+        "id": "163000",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "163001": {
+        "id": "163001",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "163004": {
+        "id": "163004",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "163006": {
+        "id": "163006",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "163012": {
+        "id": "163012",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "163211": {
+        "id": "163211",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "169001": {
+        "id": "169001",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169006": {
+        "id": "169006",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169007": {
+        "id": "169007",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169008": {
+        "id": "169008",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169010": {
+        "id": "169010",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169012": {
+        "id": "169012",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169016": {
+        "id": "169016",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169018": {
+        "id": "169018",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169019": {
+        "id": "169019",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169021": {
+        "id": "169021",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "169023": {
+        "id": "169023",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "173002": {
+        "id": "173002",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173003": {
+        "id": "173003",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173004": {
+        "id": "173004",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173005": {
+        "id": "173005",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173006": {
+        "id": "173006",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173007": {
+        "id": "173007",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173008": {
+        "id": "173008",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173009": {
+        "id": "173009",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173011": {
+        "id": "173011",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173012": {
+        "id": "173012",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173013": {
+        "id": "173013",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173014": {
+        "id": "173014",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173018": {
+        "id": "173018",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173020": {
+        "id": "173020",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173024": {
+        "id": "173024",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "173901": {
+        "id": "173901",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "181007": {
+        "id": "181007",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "181008": {
+        "id": "181008",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "181009": {
+        "id": "181009",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "183001": {
+        "id": "183001",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "183002": {
+        "id": "183002",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "183003": {
+        "id": "183003",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "183004": {
+        "id": "183004",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "183005": {
+        "id": "183005",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "183008": {
+        "id": "183008",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "183010": {
+        "id": "183010",
+        "municipality": {
+            "kommunenr": "183"
+        }
+    },
+    "185002": {
+        "id": "185002",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185003": {
+        "id": "185003",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185004": {
+        "id": "185004",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185005": {
+        "id": "185005",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185006": {
+        "id": "185006",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185008": {
+        "id": "185008",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185010": {
+        "id": "185010",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "185014": {
+        "id": "185014",
+        "municipality": {
+            "kommunenr": "185"
+        }
+    },
+    "187006": {
+        "id": "187006",
+        "municipality": {
+            "kommunenr": "187"
+        }
+    },
+    "189001": {
+        "id": "189001",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "189002": {
+        "id": "189002",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "189003": {
+        "id": "189003",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "189004": {
+        "id": "189004",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "189006": {
+        "id": "189006",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "190003": {
+        "id": "190003",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "201001": {
+        "id": "201001",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "201002": {
+        "id": "201002",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "201005": {
+        "id": "201005",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "201006": {
+        "id": "201006",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "201011": {
+        "id": "201011",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "207002": {
+        "id": "207002",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "207003": {
+        "id": "207003",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "207004": {
+        "id": "207004",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "211004": {
+        "id": "211004",
+        "municipality": {
+            "kommunenr": "260"
+        }
+    },
+    "211006": {
+        "id": "211006",
+        "municipality": {
+            "kommunenr": "260"
+        }
+    },
+    "211009": {
+        "id": "211009",
+        "municipality": {
+            "kommunenr": "260"
+        }
+    },
+    "213001": {
+        "id": "213001",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "213004": {
+        "id": "213004",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "213007": {
+        "id": "213007",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "213008": {
+        "id": "213008",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "215001": {
+        "id": "215001",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "215004": {
+        "id": "215004",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "215005": {
+        "id": "215005",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "215007": {
+        "id": "215007",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "215008": {
+        "id": "215008",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "217001": {
+        "id": "217001",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217002": {
+        "id": "217002",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217003": {
+        "id": "217003",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217004": {
+        "id": "217004",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217008": {
+        "id": "217008",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217010": {
+        "id": "217010",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217012": {
+        "id": "217012",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217013": {
+        "id": "217013",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217014": {
+        "id": "217014",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217018": {
+        "id": "217018",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217021": {
+        "id": "217021",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217023": {
+        "id": "217023",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217024": {
+        "id": "217024",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217033": {
+        "id": "217033",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "217210": {
+        "id": "217210",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "221211": {
+        "id": "221211",
+        "municipality": {
+            "kommunenr": "260"
+        }
+    },
+    "223001": {
+        "id": "223001",
+        "municipality": {
+            "kommunenr": "223"
+        }
+    },
+    "223002": {
+        "id": "223002",
+        "municipality": {
+            "kommunenr": "223"
+        }
+    },
+    "223003": {
+        "id": "223003",
+        "municipality": {
+            "kommunenr": "223"
+        }
+    },
+    "223004": {
+        "id": "223004",
+        "municipality": {
+            "kommunenr": "223"
+        }
+    },
+    "230001": {
+        "id": "230001",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "250004": {
+        "id": "250004",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "255001": {
+        "id": "255001",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "255003": {
+        "id": "255003",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "255004": {
+        "id": "255004",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "255006": {
+        "id": "255006",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "259025": {
+        "id": "259025",
+        "municipality": {
+            "kommunenr": "259"
+        }
+    },
+    "263001": {
+        "id": "263001",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "263002": {
+        "id": "263002",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "263004": {
+        "id": "263004",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265001": {
+        "id": "265001",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265005": {
+        "id": "265005",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265006": {
+        "id": "265006",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265007": {
+        "id": "265007",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265008": {
+        "id": "265008",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265010": {
+        "id": "265010",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265011": {
+        "id": "265011",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265012": {
+        "id": "265012",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265013": {
+        "id": "265013",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265015": {
+        "id": "265015",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265016": {
+        "id": "265016",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265031": {
+        "id": "265031",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "265032": {
+        "id": "265032",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "267001": {
+        "id": "267001",
+        "municipality": {
+            "kommunenr": "259"
+        }
+    },
+    "267006": {
+        "id": "267006",
+        "municipality": {
+            "kommunenr": "259"
+        }
+    },
+    "267008": {
+        "id": "267008",
+        "municipality": {
+            "kommunenr": "259"
+        }
+    },
+    "269001": {
+        "id": "269001",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "269005": {
+        "id": "269005",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "269006": {
+        "id": "269006",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "269007": {
+        "id": "269007",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "269009": {
+        "id": "269009",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "269012": {
+        "id": "269012",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "270001": {
+        "id": "270001",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "270002": {
+        "id": "270002",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "280005": {
+        "id": "280005",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "280024": {
+        "id": "280024",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "280027": {
+        "id": "280027",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "280044": {
+        "id": "280044",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280113": {
+        "id": "280113",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280117": {
+        "id": "280117",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "280118": {
+        "id": "280118",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280129": {
+        "id": "280129",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "280135": {
+        "id": "280135",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280136": {
+        "id": "280136",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280137": {
+        "id": "280137",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280138": {
+        "id": "280138",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280139": {
+        "id": "280139",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280168": {
+        "id": "280168",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280188": {
+        "id": "280188",
+        "municipality": {
+            "kommunenr": "147"
+        }
+    },
+    "280189": {
+        "id": "280189",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "280190": {
+        "id": "280190",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "280197": {
+        "id": "280197",
+        "municipality": {
+            "kommunenr": "260"
+        }
+    },
+    "280198": {
+        "id": "280198",
+        "municipality": {
+            "kommunenr": "260"
+        }
+    },
+    "280208": {
+        "id": "280208",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "280218": {
+        "id": "280218",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "280222": {
+        "id": "280222",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "280224": {
+        "id": "280224",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "280251": {
+        "id": "280251",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "280252": {
+        "id": "280252",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "280270": {
+        "id": "280270",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "280271": {
+        "id": "280271",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "280272": {
+        "id": "280272",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "280282": {
+        "id": "280282",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "280283": {
+        "id": "280283",
+        "municipality": {
+            "kommunenr": "265"
+        }
+    },
+    "280284": {
+        "id": "280284",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "280319": {
+        "id": "280319",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "280320": {
+        "id": "280320",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "280321": {
+        "id": "280321",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "280327": {
+        "id": "280327",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "280331": {
+        "id": "280331",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "280332": {
+        "id": "280332",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "280333": {
+        "id": "280333",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "280334": {
+        "id": "280334",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "280335": {
+        "id": "280335",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "280341": {
+        "id": "280341",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "280342": {
+        "id": "280342",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "280351": {
+        "id": "280351",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "280355": {
+        "id": "280355",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "280371": {
+        "id": "280371",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "280384": {
+        "id": "280384",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "280393": {
+        "id": "280393",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "280408": {
+        "id": "280408",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "280420": {
+        "id": "280420",
+        "municipality": {
+            "kommunenr": "607"
+        }
+    },
+    "280421": {
+        "id": "280421",
+        "municipality": {
+            "kommunenr": "607"
+        }
+    },
+    "280430": {
+        "id": "280430",
+        "municipality": {
+            "kommunenr": "217"
+        }
+    },
+    "280434": {
+        "id": "280434",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "280458": {
+        "id": "280458",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "280467": {
+        "id": "280467",
+        "municipality": {
+            "kommunenr": "269"
+        }
+    },
+    "280471": {
+        "id": "280471",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "280481": {
+        "id": "280481",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "280515": {
+        "id": "280515",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "280517": {
+        "id": "280517",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "280562": {
+        "id": "280562",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "280563": {
+        "id": "280563",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "280564": {
+        "id": "280564",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "280565": {
+        "id": "280565",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "280567": {
+        "id": "280567",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "280588": {
+        "id": "280588",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "280594": {
+        "id": "280594",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "280629": {
+        "id": "280629",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "280631": {
+        "id": "280631",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "280633": {
+        "id": "280633",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "280634": {
+        "id": "280634",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "280640": {
+        "id": "280640",
+        "municipality": {
+            "kommunenr": "250"
+        }
+    },
+    "280654": {
+        "id": "280654",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "280669": {
+        "id": "280669",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "280673": {
+        "id": "280673",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "280678": {
+        "id": "280678",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "280679": {
+        "id": "280679",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "280680": {
+        "id": "280680",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "280748": {
+        "id": "280748",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280749": {
+        "id": "280749",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280755": {
+        "id": "280755",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "280761": {
+        "id": "280761",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "280794": {
+        "id": "280794",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280795": {
+        "id": "280795",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280805": {
+        "id": "280805",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "280807": {
+        "id": "280807",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "280810": {
+        "id": "280810",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "280825": {
+        "id": "280825",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "280855": {
+        "id": "280855",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "280856": {
+        "id": "280856",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "280866": {
+        "id": "280866",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "280980": {
+        "id": "280980",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "281018": {
+        "id": "281018",
+        "municipality": {
+            "kommunenr": "161"
+        }
+    },
+    "281053": {
+        "id": "281053",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "281054": {
+        "id": "281054",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "281082": {
+        "id": "281082",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "281083": {
+        "id": "281083",
+        "municipality": {
+            "kommunenr": "173"
+        }
+    },
+    "281098": {
+        "id": "281098",
+        "municipality": {
+            "kommunenr": "223"
+        }
+    },
+    "281276": {
+        "id": "281276",
+        "municipality": {
+            "kommunenr": "190"
+        }
+    },
+    "281401": {
+        "id": "281401",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "281405": {
+        "id": "281405",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "281406": {
+        "id": "281406",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "281407": {
+        "id": "281407",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "281408": {
+        "id": "281408",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "281422": {
+        "id": "281422",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "281435": {
+        "id": "281435",
+        "municipality": {
+            "kommunenr": "230"
+        }
+    },
+    "281495": {
+        "id": "281495",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "281496": {
+        "id": "281496",
+        "municipality": {
+            "kommunenr": "169"
+        }
+    },
+    "281544": {
+        "id": "281544",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "281584": {
+        "id": "281584",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "281588": {
+        "id": "281588",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "281628": {
+        "id": "281628",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "281673": {
+        "id": "281673",
+        "municipality": {
+            "kommunenr": "480"
+        }
+    },
+    "281696": {
+        "id": "281696",
+        "municipality": {
+            "kommunenr": "482"
+        }
+    },
+    "281712": {
+        "id": "281712",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "281792": {
+        "id": "281792",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "281797": {
+        "id": "281797",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "281799": {
+        "id": "281799",
+        "municipality": {
+            "kommunenr": "163"
+        }
+    },
+    "281802": {
+        "id": "281802",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "281804": {
+        "id": "281804",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "281807": {
+        "id": "281807",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "281814": {
+        "id": "281814",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "281815": {
+        "id": "281815",
+        "municipality": {
+            "kommunenr": "161"
+        }
+    },
+    "281818": {
+        "id": "281818",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "281819": {
+        "id": "281819",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "281820": {
+        "id": "281820",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "281822": {
+        "id": "281822",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "281826": {
+        "id": "281826",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "281832": {
+        "id": "281832",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "281840": {
+        "id": "281840",
+        "municipality": {
+            "kommunenr": "607"
+        }
+    },
+    "281844": {
+        "id": "281844",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "281852": {
+        "id": "281852",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "281855": {
+        "id": "281855",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "281857": {
+        "id": "281857",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "281859": {
+        "id": "281859",
+        "municipality": {
+            "kommunenr": "151"
+        }
+    },
+    "281894": {
+        "id": "281894",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "281927": {
+        "id": "281927",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "281928": {
+        "id": "281928",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "281930": {
+        "id": "281930",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "281931": {
+        "id": "281931",
+        "municipality": {
+            "kommunenr": "153"
+        }
+    },
+    "281937": {
+        "id": "281937",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "281938": {
+        "id": "281938",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "281939": {
+        "id": "281939",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "281940": {
+        "id": "281940",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "281941": {
+        "id": "281941",
+        "municipality": {
+            "kommunenr": "270"
+        }
+    },
+    "281960": {
+        "id": "281960",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "282005": {
+        "id": "282005",
+        "municipality": {
+            "kommunenr": "201"
+        }
+    },
+    "303003": {
+        "id": "303003",
+        "municipality": {
+            "kommunenr": "340"
+        }
+    },
+    "311001": {
+        "id": "311001",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "311003": {
+        "id": "311003",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "311004": {
+        "id": "311004",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "325001": {
+        "id": "325001",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "325003": {
+        "id": "325003",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "325006": {
+        "id": "325006",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "325007": {
+        "id": "325007",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "325008": {
+        "id": "325008",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "325901": {
+        "id": "325901",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "329005": {
+        "id": "329005",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329008": {
+        "id": "329008",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329009": {
+        "id": "329009",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329012": {
+        "id": "329012",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329013": {
+        "id": "329013",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329015": {
+        "id": "329015",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329017": {
+        "id": "329017",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329027": {
+        "id": "329027",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329901": {
+        "id": "329901",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "329902": {
+        "id": "329902",
+        "municipality": {
+            "kommunenr": "329"
+        }
+    },
+    "331004": {
+        "id": "331004",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "331006": {
+        "id": "331006",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "331008": {
+        "id": "331008",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333004": {
+        "id": "333004",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333005": {
+        "id": "333005",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333008": {
+        "id": "333008",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333011": {
+        "id": "333011",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333012": {
+        "id": "333012",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333014": {
+        "id": "333014",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333015": {
+        "id": "333015",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333023": {
+        "id": "333023",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "333902": {
+        "id": "333902",
+        "municipality": {
+            "kommunenr": "330"
+        }
+    },
+    "335005": {
+        "id": "335005",
+        "municipality": {
+            "kommunenr": "340"
+        }
+    },
+    "335011": {
+        "id": "335011",
+        "municipality": {
+            "kommunenr": "340"
+        }
+    },
+    "353003": {
+        "id": "353003",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "361003": {
+        "id": "361003",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "365004": {
+        "id": "365004",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "365008": {
+        "id": "365008",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "365011": {
+        "id": "365011",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "370002": {
+        "id": "370002",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "370003": {
+        "id": "370003",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "370004": {
+        "id": "370004",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "370005": {
+        "id": "370005",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373001": {
+        "id": "373001",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373003": {
+        "id": "373003",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373005": {
+        "id": "373005",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373011": {
+        "id": "373011",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373012": {
+        "id": "373012",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373029": {
+        "id": "373029",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "373034": {
+        "id": "373034",
+        "municipality": {
+            "kommunenr": "370"
+        }
+    },
+    "397001": {
+        "id": "397001",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "397004": {
+        "id": "397004",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "397006": {
+        "id": "397006",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "397007": {
+        "id": "397007",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "397008": {
+        "id": "397008",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "397015": {
+        "id": "397015",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "397210": {
+        "id": "397210",
+        "municipality": {
+            "kommunenr": "390"
+        }
+    },
+    "423001": {
+        "id": "423001",
+        "municipality": {
+            "kommunenr": "480"
+        }
+    },
+    "427010": {
+        "id": "427010",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "427302": {
+        "id": "427302",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "430004": {
+        "id": "430004",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "431009": {
+        "id": "431009",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "431011": {
+        "id": "431011",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "435006": {
+        "id": "435006",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "449002": {
+        "id": "449002",
+        "municipality": {
+            "kommunenr": "450"
+        }
+    },
+    "449007": {
+        "id": "449007",
+        "municipality": {
+            "kommunenr": "450"
+        }
+    },
+    "449011": {
+        "id": "449011",
+        "municipality": {
+            "kommunenr": "450"
+        }
+    },
+    "471008": {
+        "id": "471008",
+        "municipality": {
+            "kommunenr": "480"
+        }
+    },
+    "471210": {
+        "id": "471210",
+        "municipality": {
+            "kommunenr": "480"
+        }
+    },
+    "473001": {
+        "id": "473001",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "473009": {
+        "id": "473009",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "473011": {
+        "id": "473011",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "473014": {
+        "id": "473014",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "473020": {
+        "id": "473020",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "477001": {
+        "id": "477001",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "477004": {
+        "id": "477004",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "479008": {
+        "id": "479008",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "479009": {
+        "id": "479009",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "479010": {
+        "id": "479010",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "479011": {
+        "id": "479011",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "479024": {
+        "id": "479024",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "479025": {
+        "id": "479025",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "479901": {
+        "id": "479901",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "481001": {
+        "id": "481001",
+        "municipality": {
+            "kommunenr": "482"
+        }
+    },
+    "482002": {
+        "id": "482002",
+        "municipality": {
+            "kommunenr": "482"
+        }
+    },
+    "483002": {
+        "id": "483002",
+        "municipality": {
+            "kommunenr": "480"
+        }
+    },
+    "483004": {
+        "id": "483004",
+        "municipality": {
+            "kommunenr": "480"
+        }
+    },
+    "487002": {
+        "id": "487002",
+        "municipality": {
+            "kommunenr": "482"
+        }
+    },
+    "489002": {
+        "id": "489002",
+        "municipality": {
+            "kommunenr": "450"
+        }
+    },
+    "495005": {
+        "id": "495005",
+        "municipality": {
+            "kommunenr": "450"
+        }
+    },
+    "497001": {
+        "id": "497001",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "497002": {
+        "id": "497002",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "497005": {
+        "id": "497005",
+        "municipality": {
+            "kommunenr": "430"
+        }
+    },
+    "501001": {
+        "id": "501001",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "501002": {
+        "id": "501002",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "503004": {
+        "id": "503004",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "505002": {
+        "id": "505002",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "507001": {
+        "id": "507001",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "509009": {
+        "id": "509009",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "509011": {
+        "id": "509011",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "509012": {
+        "id": "509012",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "509013": {
+        "id": "509013",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "509300": {
+        "id": "509300",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "513002": {
+        "id": "513002",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "513004": {
+        "id": "513004",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "517001": {
+        "id": "517001",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "519002": {
+        "id": "519002",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "519003": {
+        "id": "519003",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "519005": {
+        "id": "519005",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "519008": {
+        "id": "519008",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "521003": {
+        "id": "521003",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "521005": {
+        "id": "521005",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "523001": {
+        "id": "523001",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "525001": {
+        "id": "525001",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "527002": {
+        "id": "527002",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "527004": {
+        "id": "527004",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "527005": {
+        "id": "527005",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "529001": {
+        "id": "529001",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "529002": {
+        "id": "529002",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "529003": {
+        "id": "529003",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "529004": {
+        "id": "529004",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "529006": {
+        "id": "529006",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "531005": {
+        "id": "531005",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "533003": {
+        "id": "533003",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "533004": {
+        "id": "533004",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "535001": {
+        "id": "535001",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "535003": {
+        "id": "535003",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "537004": {
+        "id": "537004",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "537006": {
+        "id": "537006",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "537007": {
+        "id": "537007",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "537019": {
+        "id": "537019",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "537210": {
+        "id": "537210",
+        "municipality": {
+            "kommunenr": "540"
+        }
+    },
+    "539001": {
+        "id": "539001",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "539003": {
+        "id": "539003",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "539004": {
+        "id": "539004",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "539006": {
+        "id": "539006",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "539010": {
+        "id": "539010",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "539012": {
+        "id": "539012",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "539014": {
+        "id": "539014",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "541003": {
+        "id": "541003",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "541004": {
+        "id": "541004",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "541007": {
+        "id": "541007",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "541010": {
+        "id": "541010",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "541210": {
+        "id": "541210",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "545002": {
+        "id": "545002",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "545005": {
+        "id": "545005",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "545006": {
+        "id": "545006",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "545009": {
+        "id": "545009",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "545011": {
+        "id": "545011",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "545016": {
+        "id": "545016",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "545901": {
+        "id": "545901",
+        "municipality": {
+            "kommunenr": "580"
+        }
+    },
+    "550002": {
+        "id": "550002",
+        "municipality": {
+            "kommunenr": "550"
+        }
+    },
+    "557002": {
+        "id": "557002",
+        "municipality": {
+            "kommunenr": "561"
+        }
+    },
+    "561022": {
+        "id": "561022",
+        "municipality": {
+            "kommunenr": "561"
+        }
+    },
+    "561024": {
+        "id": "561024",
+        "municipality": {
+            "kommunenr": "561"
+        }
+    },
+    "569001": {
+        "id": "569001",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "569004": {
+        "id": "569004",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "569007": {
+        "id": "569007",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575001": {
+        "id": "575001",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575002": {
+        "id": "575002",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575003": {
+        "id": "575003",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575004": {
+        "id": "575004",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575005": {
+        "id": "575005",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575011": {
+        "id": "575011",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "575013": {
+        "id": "575013",
+        "municipality": {
+            "kommunenr": "575"
+        }
+    },
+    "601001": {
+        "id": "601001",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "601004": {
+        "id": "601004",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "603002": {
+        "id": "603002",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "603004": {
+        "id": "603004",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "603005": {
+        "id": "603005",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "605002": {
+        "id": "605002",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "605005": {
+        "id": "605005",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "605007": {
+        "id": "605007",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "605008": {
+        "id": "605008",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "609001": {
+        "id": "609001",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "609002": {
+        "id": "609002",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "609003": {
+        "id": "609003",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "609004": {
+        "id": "609004",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "611008": {
+        "id": "611008",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "611010": {
+        "id": "611010",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "613002": {
+        "id": "613002",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613005": {
+        "id": "613005",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613006": {
+        "id": "613006",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613007": {
+        "id": "613007",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613008": {
+        "id": "613008",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613009": {
+        "id": "613009",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613012": {
+        "id": "613012",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613013": {
+        "id": "613013",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "613210": {
+        "id": "613210",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "615002": {
+        "id": "615002",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615003": {
+        "id": "615003",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615007": {
+        "id": "615007",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615011": {
+        "id": "615011",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615012": {
+        "id": "615012",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615014": {
+        "id": "615014",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615015": {
+        "id": "615015",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615020": {
+        "id": "615020",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615024": {
+        "id": "615024",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615025": {
+        "id": "615025",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615031": {
+        "id": "615031",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615200": {
+        "id": "615200",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615210": {
+        "id": "615210",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "615902": {
+        "id": "615902",
+        "municipality": {
+            "kommunenr": "615"
+        }
+    },
+    "617001": {
+        "id": "617001",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "617002": {
+        "id": "617002",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "617003": {
+        "id": "617003",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "619002": {
+        "id": "619002",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619004": {
+        "id": "619004",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619005": {
+        "id": "619005",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619007": {
+        "id": "619007",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619010": {
+        "id": "619010",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619011": {
+        "id": "619011",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619012": {
+        "id": "619012",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619016": {
+        "id": "619016",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "619017": {
+        "id": "619017",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "621001": {
+        "id": "621001",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621002": {
+        "id": "621002",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621003": {
+        "id": "621003",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621004": {
+        "id": "621004",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621006": {
+        "id": "621006",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621007": {
+        "id": "621007",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621008": {
+        "id": "621008",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621011": {
+        "id": "621011",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621012": {
+        "id": "621012",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621013": {
+        "id": "621013",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621014": {
+        "id": "621014",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621016": {
+        "id": "621016",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621017": {
+        "id": "621017",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621018": {
+        "id": "621018",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621019": {
+        "id": "621019",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621020": {
+        "id": "621020",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621024": {
+        "id": "621024",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621025": {
+        "id": "621025",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621031": {
+        "id": "621031",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621211": {
+        "id": "621211",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621300": {
+        "id": "621300",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "621304": {
+        "id": "621304",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "623001": {
+        "id": "623001",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "623002": {
+        "id": "623002",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "623300": {
+        "id": "623300",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "623301": {
+        "id": "623301",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "627001": {
+        "id": "627001",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "627002": {
+        "id": "627002",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "627003": {
+        "id": "627003",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "627004": {
+        "id": "627004",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "627005": {
+        "id": "627005",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "627006": {
+        "id": "627006",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "629001": {
+        "id": "629001",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "629002": {
+        "id": "629002",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "629004": {
+        "id": "629004",
+        "municipality": {
+            "kommunenr": "621"
+        }
+    },
+    "630003": {
+        "id": "630003",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631002": {
+        "id": "631002",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631003": {
+        "id": "631003",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631005": {
+        "id": "631005",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631006": {
+        "id": "631006",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631009": {
+        "id": "631009",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631011": {
+        "id": "631011",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631012": {
+        "id": "631012",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631013": {
+        "id": "631013",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631014": {
+        "id": "631014",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631015": {
+        "id": "631015",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631017": {
+        "id": "631017",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631034": {
+        "id": "631034",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631211": {
+        "id": "631211",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "631902": {
+        "id": "631902",
+        "municipality": {
+            "kommunenr": "630"
+        }
+    },
+    "651003": {
+        "id": "651003",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "651005": {
+        "id": "651005",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657004": {
+        "id": "657004",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657007": {
+        "id": "657007",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657010": {
+        "id": "657010",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657013": {
+        "id": "657013",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657014": {
+        "id": "657014",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657018": {
+        "id": "657018",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657019": {
+        "id": "657019",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657022": {
+        "id": "657022",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657023": {
+        "id": "657023",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657024": {
+        "id": "657024",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657025": {
+        "id": "657025",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657027": {
+        "id": "657027",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657031": {
+        "id": "657031",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657032": {
+        "id": "657032",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657036": {
+        "id": "657036",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657037": {
+        "id": "657037",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657042": {
+        "id": "657042",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657210": {
+        "id": "657210",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "657902": {
+        "id": "657902",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "661001": {
+        "id": "661001",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661002": {
+        "id": "661002",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661003": {
+        "id": "661003",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661004": {
+        "id": "661004",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661005": {
+        "id": "661005",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661007": {
+        "id": "661007",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661008": {
+        "id": "661008",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661011": {
+        "id": "661011",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661012": {
+        "id": "661012",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661013": {
+        "id": "661013",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661014": {
+        "id": "661014",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661210": {
+        "id": "661210",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "661901": {
+        "id": "661901",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "677002": {
+        "id": "677002",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "677003": {
+        "id": "677003",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "677004": {
+        "id": "677004",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "677008": {
+        "id": "677008",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "679004": {
+        "id": "679004",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "679006": {
+        "id": "679006",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "679008": {
+        "id": "679008",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "683005": {
+        "id": "683005",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "683006": {
+        "id": "683006",
+        "municipality": {
+            "kommunenr": "661"
+        }
+    },
+    "685001": {
+        "id": "685001",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "685002": {
+        "id": "685002",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "685003": {
+        "id": "685003",
+        "municipality": {
+            "kommunenr": "657"
+        }
+    },
+    "705001": {
+        "id": "705001",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "705002": {
+        "id": "705002",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "705003": {
+        "id": "705003",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "705004": {
+        "id": "705004",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "705005": {
+        "id": "705005",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "727001": {
+        "id": "727001",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727002": {
+        "id": "727002",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727003": {
+        "id": "727003",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727004": {
+        "id": "727004",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727006": {
+        "id": "727006",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727007": {
+        "id": "727007",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727011": {
+        "id": "727011",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727013": {
+        "id": "727013",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "727211": {
+        "id": "727211",
+        "municipality": {
+            "kommunenr": "727"
+        }
+    },
+    "740005": {
+        "id": "740005",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "741004": {
+        "id": "741004",
+        "municipality": {
+            "kommunenr": "741"
+        }
+    },
+    "741007": {
+        "id": "741007",
+        "municipality": {
+            "kommunenr": "741"
+        }
+    },
+    "743002": {
+        "id": "743002",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743008": {
+        "id": "743008",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743010": {
+        "id": "743010",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743011": {
+        "id": "743011",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743012": {
+        "id": "743012",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743013": {
+        "id": "743013",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743014": {
+        "id": "743014",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743016": {
+        "id": "743016",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743020": {
+        "id": "743020",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743021": {
+        "id": "743021",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743027": {
+        "id": "743027",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "743211": {
+        "id": "743211",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "749001": {
+        "id": "749001",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "749002": {
+        "id": "749002",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "749003": {
+        "id": "749003",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "751002": {
+        "id": "751002",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751003": {
+        "id": "751003",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751004": {
+        "id": "751004",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751006": {
+        "id": "751006",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751007": {
+        "id": "751007",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751008": {
+        "id": "751008",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751013": {
+        "id": "751013",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751014": {
+        "id": "751014",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751015": {
+        "id": "751015",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751016": {
+        "id": "751016",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751017": {
+        "id": "751017",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751018": {
+        "id": "751018",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751019": {
+        "id": "751019",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751020": {
+        "id": "751020",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751021": {
+        "id": "751021",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751022": {
+        "id": "751022",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751023": {
+        "id": "751023",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751024": {
+        "id": "751024",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751025": {
+        "id": "751025",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751026": {
+        "id": "751026",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751027": {
+        "id": "751027",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751032": {
+        "id": "751032",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751033": {
+        "id": "751033",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751034": {
+        "id": "751034",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751035": {
+        "id": "751035",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751036": {
+        "id": "751036",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751038": {
+        "id": "751038",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751039": {
+        "id": "751039",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751040": {
+        "id": "751040",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751041": {
+        "id": "751041",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751042": {
+        "id": "751042",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751043": {
+        "id": "751043",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751044": {
+        "id": "751044",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751045": {
+        "id": "751045",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751046": {
+        "id": "751046",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751050": {
+        "id": "751050",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751051": {
+        "id": "751051",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751052": {
+        "id": "751052",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751053": {
+        "id": "751053",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751054": {
+        "id": "751054",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751055": {
+        "id": "751055",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751056": {
+        "id": "751056",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751065": {
+        "id": "751065",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751066": {
+        "id": "751066",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751090": {
+        "id": "751090",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751221": {
+        "id": "751221",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "751903": {
+        "id": "751903",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "761006": {
+        "id": "761006",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "761012": {
+        "id": "761012",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "761016": {
+        "id": "761016",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "763001": {
+        "id": "763001",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "763005": {
+        "id": "763005",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "763006": {
+        "id": "763006",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "763008": {
+        "id": "763008",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "765001": {
+        "id": "765001",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "766001": {
+        "id": "766001",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },
+    "769001": {
+        "id": "769001",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "769003": {
+        "id": "769003",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "771001": {
+        "id": "771001",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "771007": {
+        "id": "771007",
+        "municipality": {
+            "kommunenr": "740"
+        }
+    },
+    "775001": {
+        "id": "775001",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "775004": {
+        "id": "775004",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "775006": {
+        "id": "775006",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "775007": {
+        "id": "775007",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "785002": {
+        "id": "785002",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "785006": {
+        "id": "785006",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "785007": {
+        "id": "785007",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "785015": {
+        "id": "785015",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787004": {
+        "id": "787004",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787005": {
+        "id": "787005",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787006": {
+        "id": "787006",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787008": {
+        "id": "787008",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787012": {
+        "id": "787012",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787013": {
+        "id": "787013",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787016": {
+        "id": "787016",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787019": {
+        "id": "787019",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "787024": {
+        "id": "787024",
+        "municipality": {
+            "kommunenr": "787"
+        }
+    },
+    "789002": {
+        "id": "789002",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "789005": {
+        "id": "789005",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "789008": {
+        "id": "789008",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791002": {
+        "id": "791002",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791003": {
+        "id": "791003",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791004": {
+        "id": "791004",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791005": {
+        "id": "791005",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791006": {
+        "id": "791006",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791008": {
+        "id": "791008",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791010": {
+        "id": "791010",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791013": {
+        "id": "791013",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791014": {
+        "id": "791014",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791015": {
+        "id": "791015",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791019": {
+        "id": "791019",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791020": {
+        "id": "791020",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791027": {
+        "id": "791027",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791028": {
+        "id": "791028",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791029": {
+        "id": "791029",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791210": {
+        "id": "791210",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "791902": {
+        "id": "791902",
+        "municipality": {
+            "kommunenr": "791"
+        }
+    },
+    "803001": {
+        "id": "803001",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "803004": {
+        "id": "803004",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "805006": {
+        "id": "805006",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "805007": {
+        "id": "805007",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "805008": {
+        "id": "805008",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "805009": {
+        "id": "805009",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "805012": {
+        "id": "805012",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "805014": {
+        "id": "805014",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "807002": {
+        "id": "807002",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "807003": {
+        "id": "807003",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "807004": {
+        "id": "807004",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "807006": {
+        "id": "807006",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "807007": {
+        "id": "807007",
+        "municipality": {
+            "kommunenr": "810"
+        }
+    },
+    "811001": {
+        "id": "811001",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "811003": {
+        "id": "811003",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "811005": {
+        "id": "811005",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "811006": {
+        "id": "811006",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "831002": {
+        "id": "831002",
+        "municipality": {
+            "kommunenr": "851"
+        }
+    },
+    "835006": {
+        "id": "835006",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "849001": {
+        "id": "849001",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "849002": {
+        "id": "849002",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "849003": {
+        "id": "849003",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "849005": {
+        "id": "849005",
+        "municipality": {
+            "kommunenr": "849"
+        }
+    },
+    "851011": {
+        "id": "851011",
+        "municipality": {
+            "kommunenr": "851"
+        }
+    },
+    "A00035": {
+        "id": "A00035",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "A03368": {
+        "id": "A03368",
+        "municipality": {
+            "kommunenr": "751"
+        }
+    },
+    "A04441": {
+        "id": "A04441",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },
+    "707001": {
+        "id": "707001",
+        "municipality": {
+            "kommunenr": "707"
+        }
+    },
+    "747001": {
+        "id": "747001",
+        "municipality": {
+            "kommunenr": "707"
+        }
+    },
+    "281071": {
+        "id": "281071",
+        "municipality": {
+            "kommunenr": "707"
+        }
+    },
+    "281072": {
+        "id": "281072",
+        "municipality": {
+            "kommunenr": "707"
+        }
+    },
+    "479016": {
+        "id": "479016",
+        "municipality": {
+            "kommunenr": "479"
+        }
+    },
+    "281070": {
+        "id": "281070",
+        "municipality": {
+            "kommunenr": "707"
+        }
+    },
+    "725009": {
+        "id": "725009",
+        "municipality": {
+            "kommunenr": "707"
+        }
+    },	
+	"627300": {
+        "id": "627300",
+        "municipality": {
+            "kommunenr": "766"
+        }
+    },	
+	"281981": {
+        "id": "281981",
+        "municipality": {
+            "kommunenr": "101"
+        }
+    },	
+	"561019": {
+        "id": "561019",
+        "municipality": {
+            "kommunenr": "561"
+        }
+    }
+}
