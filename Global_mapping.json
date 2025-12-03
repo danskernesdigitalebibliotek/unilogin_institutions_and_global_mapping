@@ -1,0 +1,678 @@
+[
+  {
+    "trigger": "Antologier",
+    "query": "\"Literary Anthologies\""
+  },
+  {
+    "trigger": "Arkitektur",
+    "query": "Architecture"
+  },
+  {
+    "trigger": "Autobiografi",
+    "query": "\"Biography & Autobiography\" OR Biography"
+  },
+  {
+    "trigger": "Begynderlæsning ",
+    "query": "\"Beginning Reader\""
+  },
+  {
+    "trigger": "Billedbøger",
+    "query": "\"Picture Books\" OR \"Picture Book Collection\" OR \"Picture eBooks\" OR \"Picture Book Fiction\" OR \"Picture Book Nonfiction\""
+  },
+  {
+    "trigger": "Biografi",
+    "query": "Biography OR \"Biography & Autobiography\""
+  },
+  {
+    "trigger": "Business",
+    "query": "Business OR Careers"
+  },
+  {
+    "trigger": "bygninger",
+    "query": "Architecture"
+  },
+  {
+    "trigger": "Børn",
+    "query": "Kids OR \"Kids Fiction\" OR \"Kids' Fiction\" OR \"Kid's Fiction\" OR \"Kids' Literature\" OR \"Kid's Literature\" "
+  },
+  {
+    "trigger": "børnebøger",
+    "query": "Kids OR \"Kids Fiction\" OR Childrens OR \"Children's Fiction\"            "
+  },
+  {
+    "trigger": "Børneopdragelse",
+    "query": "Children"
+  },
+  {
+    "trigger": "Bøsser",
+    "query": "Gay OR Homosexual"
+  },
+  {
+    "trigger": "Computerteknologi",
+    "query": "\"Computer Technology\" OR \"Science and Computer Technology\""
+  },
+  {
+    "trigger": "Design",
+    "query": "Design OR \"Home Design & Décor\""
+  },
+  {
+    "trigger": "Detektiv",
+    "query": "\"Mystery & Adventure\" OR Mystery OR \"Mystery & Thrillers\" OR \"Mystery and Suspense\""
+  },
+  {
+    "trigger": "Dyr",
+    "query": "Pets OR Animal"
+  },
+  {
+    "trigger": "Engelsk",
+    "query": "\"Foreign Language Study - English\""
+  },
+  {
+    "trigger": "Erotik",
+    "query": "\"Erotic Literature\" OR Erotic"
+  },
+  {
+    "trigger": "Etik",
+    "query": "Ethics"
+  },
+  {
+    "trigger": "eventyrslyst",
+    "query": "\"Action & Adventure\" OR Adventure"
+  },
+  {
+    "trigger": "'Fagbøger for børn'",
+    "query": "\"Children's Nonfiction\""
+  },
+  {
+    "trigger": "'fagbøger til børn'",
+    "query": "\"Children's Nonfiction\""
+  },
+  {
+    "trigger": "Faglitteratur",
+    "query": "\"All Nonfiction\" OR Nonfiction OR \"Non-fiction\""
+  },
+  {
+    "trigger": "'Faglitteratur for børn'",
+    "query": "\"Kids Nonfiction\" OR \"Kid's Nonfiction\" OR \"Kid's Nonfiction\""
+  },
+  {
+    "trigger": "'Faglitteratur for unge'",
+    "query": "\"Juvenile Nonfiction\" OR \"Juvenile Non-fiction\""
+  },
+  {
+    "trigger": "Familie",
+    "query": "\"Family & Relationships\" OR Family"
+  },
+  {
+    "trigger": "Feminisme",
+    "query": "Feminism OR Feminist OR \"Women's Studies\""
+  },
+  {
+    "trigger": "Fiktion",
+    "query": "\"All Fiction\" OR Fiction"
+  },
+  {
+    "trigger": "Filosofi",
+    "query": "Philosophy"
+  },
+  {
+    "trigger": "Fitness",
+    "query": "\"Health & Fitness\""
+  },
+  {
+    "trigger": "Folkesagn",
+    "query": "Folklore OR \"Folklore & Legends\""
+  },
+  {
+    "trigger": "Folklore",
+    "query": "Folklore OR \"Folklore & Legends\""
+  },
+  {
+    "trigger": "Forbrydelser",
+    "query": "\"True Crime\" OR Crime"
+  },
+  {
+    "trigger": "Forfatterskab",
+    "query": "Writing OR Authorship"
+  },
+  {
+    "trigger": "Forretning",
+    "query": "Finance OR Economics"
+  },
+  {
+    "trigger": "Foto",
+    "query": "Photography"
+  },
+  {
+    "trigger": "Fotografering",
+    "query": "Photography"
+  },
+  {
+    "trigger": "Fransk",
+    "query": "\"Foreign Language Study - French\""
+  },
+  {
+    "trigger": "Fremmedsprog",
+    "query": "\"Foreign Language\" OR \"Foreign Language Study\""
+  },
+  {
+    "trigger": "Fremtidsforskning",
+    "query": "Engineering"
+  },
+  {
+    "trigger": "Fysik",
+    "query": "Physics"
+  },
+  {
+    "trigger": "Spil",
+    "query": "Games OR Gaming"
+  },
+  {
+    "trigger": "Geografi",
+    "query": "Geography"
+  },
+  {
+    "trigger": "Grammatik",
+    "query": "\"Study Aid\" OR \"Study Aids & Workbooks\""
+  },
+  {
+    "trigger": "Graphic novels",
+    "query": "\"Comic and Graphic Books\" OR Comics OR \"Graphic Books\""
+  },
+  {
+    "trigger": "Gys",
+    "query": "Horror"
+  },
+  {
+    "trigger": "Have",
+    "query": "Gardening"
+  },
+  {
+    "trigger": "Havearbejde",
+    "query": "Gardening"
+  },
+  {
+    "trigger": "Helbred",
+    "query": "Medical OR \"Media Studies\""
+  },
+  {
+    "trigger": "Helbredelse",
+    "query": "Recovery"
+  },
+  {
+    "trigger": "Historie",
+    "query": "History"
+  },
+  {
+    "trigger": "'Historisk skønlitteratur'",
+    "query": "\"Historical Fiction\""
+  },
+  {
+    "trigger": "'Historiske romaner'",
+    "query": "\"Historical Fiction\""
+  },
+  {
+    "trigger": "homoseksualitet",
+    "query": "Gay OR Lesbian OR Homosexual"
+  },
+  {
+    "trigger": "Humoristiske bøger",
+    "query": "Humor OR Humour"
+  },
+  {
+    "trigger": "Hæren",
+    "query": "Military OR Army"
+  },
+  {
+    "trigger": "Håndarbejde",
+    "query": "Crafts"
+  },
+  {
+    "trigger": "Indretning",
+    "query": "\"Home Design & Décor\""
+  },
+  {
+    "trigger": "Italiensk",
+    "query": "\"Foreign Language Study - Italian\""
+  },
+  {
+    "trigger": "Jura",
+    "query": "Law"
+  },
+  {
+    "trigger": "Karriere",
+    "query": "Careers OR Business"
+  },
+  {
+    "trigger": "Kemi",
+    "query": "Chemistry OR Science "
+  },
+  {
+    "trigger": "Klassikere",
+    "query": "\"Classic Literature\""
+  },
+  {
+    "trigger": "'Klassisk litteratur'",
+    "query": "\"Classic Literature\""
+  },
+  {
+    "trigger": "Kogebog",
+    "query": "\"Cooking & Food\""
+  },
+  {
+    "trigger": "Kogebøger",
+    "query": "\"Cooking & Food\""
+  },
+  {
+    "trigger": "Krimi",
+    "query": "Crime OR \"True Crime\" OR \"Mystery & Adventure\" OR Mystery OR \"Mystery & Thrillers\" OR \"Mystery and Suspense\""
+  },
+  {
+    "trigger": "Kriminalitet",
+    "query": "Crime OR \"True Crime\" OR \"Mystery & Adventure\" OR Mystery OR \"Mystery & Thrillers\" OR \"Mystery and Suspense\""
+  },
+  {
+    "trigger": "Kriminalroman",
+    "query": "Crime OR \"True Crime\" OR \"Mystery & Adventure\" OR Mystery OR \"Mystery & Thrillers\" OR \"Mystery and Suspense\""
+  },
+  {
+    "trigger": "Kristen",
+    "query": "\"Christian Fiction\""
+  },
+  {
+    "trigger": "'Kristen skønlitteratur'",
+    "query": "\"Christian Fiction\""
+  },
+  {
+    "trigger": "Kristendom",
+    "query": "\"Christian Fiction\""
+  },
+  {
+    "trigger": "Kristne",
+    "query": "\"Christian Fiction\""
+  },
+  {
+    "trigger": "Kritik",
+    "query": "\"Literary Criticism\" OR Criticism"
+  },
+  {
+    "trigger": "Kunst",
+    "query": "Art"
+  },
+  {
+    "trigger": "Kunsthåndværk",
+    "query": "Crafts"
+  },
+  {
+    "trigger": "Kvinder",
+    "query": "Feminism OR Feminist OR \"Women's Studies\""
+  },
+  {
+    "trigger": "Kvindestudier",
+    "query": "Feminism OR Feminist OR \"Women's Studies\""
+  },
+  {
+    "trigger": "Kæledyr",
+    "query": "Pets"
+  },
+  {
+    "trigger": "Køn",
+    "query": "Feminism OR Feminist OR \"Women's Studies\" OR \"Gender studies\""
+  },
+  {
+    "trigger": "Kønsroller",
+    "query": "\"Gender Studies\""
+  },
+  {
+    "trigger": "kønsrollestudier",
+    "query": "\"Gender Studies\""
+  },
+  {
+    "trigger": "Lande",
+    "query": "Geography"
+  },
+  {
+    "trigger": "Legender",
+    "query": "Folklore OR \"Folklore & Legends\""
+  },
+  {
+    "trigger": "Lesbisk",
+    "query": "Lesbian"
+  },
+  {
+    "trigger": "Letlæsning",
+    "query": "\"Beginning Reader\" OR \"Easy reading\""
+  },
+  {
+    "trigger": "Litteratur",
+    "query": "Literature OR \"Literary Criticism\""
+  },
+  {
+    "trigger": "Litteraturkritik",
+    "query": "\"Literary Criticism\""
+  },
+  {
+    "trigger": "Madlavning",
+    "query": "\"Cooking & Food\""
+  },
+  {
+    "trigger": "Matematik",
+    "query": "Mathematics"
+  },
+  {
+    "trigger": "Medicin",
+    "query": "Medical OR \"Media Studies\""
+  },
+  {
+    "trigger": "Militær",
+    "query": "Military"
+  },
+  {
+    "trigger": "'Moderne litteratur'",
+    "query": "\"Modern Literature\""
+  },
+  {
+    "trigger": "Motion",
+    "query": "\"Health & Fitness\""
+  },
+  {
+    "trigger": "Multikultur",
+    "query": "Multi-Cultural"
+  },
+  {
+    "trigger": "Rock",
+    "query": "\"Rock music\""
+  },
+  {
+    "trigger": "Musik",
+    "query": "Music"
+  },
+  {
+    "trigger": "Mysterium",
+    "query": "\"Mystery & Adventure\" OR Mystery OR \"Mystery & Thrillers\" OR \"Mystery and Suspense\""
+  },
+  {
+    "trigger": "Myter",
+    "query": "Folklore OR \"Folklore & Legends\" OR \"Mythology & Folklore\" OR Mythology"
+  },
+  {
+    "trigger": "Mytology",
+    "query": "\"Mythology & Folklore\" OR Mythology"
+  },
+  {
+    "trigger": "Natur",
+    "query": "Nature"
+  },
+  {
+    "trigger": "'New Age'",
+    "query": "\"New Age\" OR \"Religion & Spirituality\""
+  },
+  {
+    "trigger": "Oplevelser",
+    "query": "Adventure OR \"Action & Adventure\" OR Travel"
+  },
+  {
+    "trigger": "Opskrifter",
+    "query": "\"Cooking & Food\""
+  },
+  {
+    "trigger": "Ordbøger",
+    "query": "\"Foreign Language\" OR \"Foreign Language Study\" OR \"Study Aid\" OR \"Study Aids & Workbooks\""
+  },
+  {
+    "trigger": "Parforhold",
+    "query": "\"Family & Relationships\""
+  },
+  {
+    "trigger": "Poesi",
+    "query": "Poetry"
+  },
+  {
+    "trigger": "Politik",
+    "query": "Politics"
+  },
+  {
+    "trigger": "Psykologi",
+    "query": "Psychiatry OR \"Psychiatry & Psychology\" OR Psychology"
+  },
+  {
+    "trigger": "Regning",
+    "query": "Mathematics"
+  },
+  {
+    "trigger": "Rehabilitering",
+    "query": "Recovery OR Rehabilitation"
+  },
+  {
+    "trigger": "Rejse",
+    "query": "Travel"
+  },
+  {
+    "trigger": "Rejsebøger",
+    "query": "Travel OR \"Travel Literature\""
+  },
+  {
+    "trigger": "Religion",
+    "query": "\"Religion & Spirituality\" OR \"New age\""
+  },
+  {
+    "trigger": "'Religion og spiritualitet'",
+    "query": "\"Religion & Spirituality\" OR \"New age\""
+  },
+  {
+    "trigger": "Romance",
+    "query": "Love OR Romance OR \"Romance Literature\" OR \"Romantic Comedy\" OR \"Romantic Comedie\" OR \"Rom-Coms\" OR \"Romantic Fiction\""
+  },
+  {
+    "trigger": "Romaner",
+    "query": "Fiction"
+  },
+  {
+    "trigger": "Sagn",
+    "query": "Folklore OR \"Folklore & Legends\""
+  },
+  {
+    "trigger": "Samfund",
+    "query": "\"Social Studies\" OR Sociology OR \"Sociology & Psychology\""
+  },
+  {
+    "trigger": "Scenekunst",
+    "query": "\"Performing Arts\""
+  },
+  {
+    "trigger": "'Science Fiction'",
+    "query": "\"Science Fiction\" OR \"Science Fiction & Fantasy\" OR \"Science Fiction and Fantasy\" "
+  },
+  {
+    "trigger": "Selvhjælp",
+    "query": "\"Self Help\" OR \"Self-Improvement\""
+  },
+  {
+    "trigger": "Selvhjælpsbøger",
+    "query": "\"Self Help\" OR \"Self-Improvement\""
+  },
+  {
+    "trigger": "'Sjove bøger'",
+    "query": "\"Humor (Fiction)\" OR \"Humor (Nonfiction)\" OR Humour"
+  },
+  {
+    "trigger": "Skrivning",
+    "query": "Writing"
+  },
+  {
+    "trigger": "Skønlitteratur",
+    "query": "Fiction"
+  },
+  {
+    "trigger": "'skønlitteratur for børn'",
+    "query": "Kids OR \"Kids Fiction\" OR \"Kids' Fiction\" OR \"Kid's Fiction\" OR \"Kids' Literature\" OR \"Kids' Literature\" OR \"Kid's Literature\""
+  },
+  {
+    "trigger": "'Skønlitteratur for unge'",
+    "query": "\"Juvenile Fiction\" OR \"Juvenile Literature\""
+  },
+  {
+    "trigger": "Sociologi",
+    "query": "\"Social Studies\" OR Sociology OR \"Sociology & Psychology\""
+  },
+  {
+    "trigger": "Spansk",
+    "query": "\"Foreign Language Study - Spanish\""
+  },
+  {
+    "trigger": "Spiritualitet",
+    "query": "\"New Age\" OR \"Religion & Spirituality\""
+  },
+  {
+    "trigger": "Spirituel ",
+    "query": "\"New Age\" OR \"Religion & Spirituality\""
+  },
+  {
+    "trigger": "Sport",
+    "query": "\"Sports & Health\" OR \"Sports & Recreations\""
+  },
+  {
+    "trigger": "Sprog",
+    "query": "\"Foreign Language\" OR \"Foreign Language Study\" OR \"Language Arts\""
+  },
+  {
+    "trigger": "Spænding",
+    "query": "Suspense OR Crime OR \"True Crime\" OR \"Mystery & Adventure\" OR Mystery OR \"Mystery & Thrillers\" OR \"Mystery and Suspense\""
+  },
+  {
+    "trigger": "Undergrund",
+    "query": "\"Urban Fiction\""
+  },
+  {
+    "trigger": "Studiehjælp",
+    "query": "\"Study Aid\" OR \"Study Aids & Workbooks\""
+  },
+  {
+    "trigger": "Sundhed",
+    "query": "'Health & Fitness'"
+  },
+  {
+    "trigger": "Teen",
+    "query": "\"Young Adult Fiction\" OR \"Young Adult Literature\" OR \"Young Adult Nonfiction\" OR \"Young Adult Non-Fiction\""
+  },
+  {
+    "trigger": "Teenagere",
+    "query": "Teen"
+  },
+  {
+    "trigger": "Tegneserie",
+    "query": "\"Comic and Graphic Books\" OR Comics OR \"Graphic Books\""
+  },
+  {
+    "trigger": "Tegneserier",
+    "query": "\"Comic and Graphic Books\" OR Comics OR \"Graphic Books\""
+  },
+  {
+    "trigger": "Teknologi",
+    "query": "\"Science and Technology\" OR \"Science and Technology\" OR \"Science and Computer Technology\" OR Technology"
+  },
+  {
+    "trigger": "Transport",
+    "query": "Transportation"
+  },
+  {
+    "trigger": "Tweens",
+    "query": "\"Juvenile Fiction\" OR \"Juvenile Literature\" OR \"Juvenile Nonfiction\" OR \"Juvenile Non-fiction\""
+  },
+  {
+    "trigger": "Tysk",
+    "query": "\"Foreign Language Study - German\""
+  },
+  {
+    "trigger": "Uddannelse",
+    "query": "Education"
+  },
+  {
+    "trigger": "Udenlandsk",
+    "query": "\"Non-English Fiction\""
+  },
+  {
+    "trigger": "Underholdning",
+    "query": "Entertainment"
+  },
+  {
+    "trigger": "Ungdomsbøger",
+    "query": "\"Teen Fiction\" OR \"Teen Literature\" OR \"Teen Nonfiction\""
+  },
+  {
+    "trigger": "Unge",
+    "query": "\"Juvenile Fiction\" OR \"Juvenile Literature\" OR \"Juvenile Nonfiction\" OR \"Juvenile Non-fiction\""
+  },
+  {
+    "trigger": "Verdensmusik",
+    "query": "\"World Music\""
+  },
+  {
+    "trigger": "Videnskab",
+    "query": "Science OR \"Science and Nature\" OR \"Science and Technology\" OR \"Science and Computer Technology\" NOT \"Science fiction\""
+  },
+  {
+    "trigger": "Virksomhed",
+    "query": "Economics"
+  },
+  {
+    "trigger": "Cowboy",
+    "query": "Western OR Cowboy"
+  },
+  {
+    "trigger": "Young adult",
+    "query": "\"Young Adult Fiction\" OR \"Young Adult Literature\" OR \"Young Adult Nonfiction\" OR \"Young Adult Non-Fiction\""
+  },
+  {
+    "trigger": "YA",
+    "query": "\"Young Adult Fiction\" OR \"Young Adult Literature\" OR \"Young Adult Nonfiction\" OR \"Young Adult Non-Fiction\""
+  },
+  {
+    "trigger": "Økonomi",
+    "query": "Finance OR Economics"
+  },
+  {
+    "trigger": "Eventyr",
+    "query": "\"Fairy tale\""
+  },
+  {
+    "trigger": "Højtlæsning",
+    "query": "\"Read aloud\""
+  },
+  {
+    "trigger": "Pigebøger",
+    "query": "\"For girls\" OR Girls"
+  },
+  {
+    "trigger": "Drengebøger",
+    "query": "\"For boys\" OR Boys"
+  },
+  {
+    "trigger": "Slægt",
+    "query": "Family"
+  },
+  {
+    "trigger": "Samfundsskildring",
+    "query": "Society"
+  },
+  {
+    "trigger": "Jul",
+    "query": "\"Christmas\""
+  },
+  {
+    "trigger": "Kærlighed",
+    "query": "Love OR Romance OR  \"Romance Literature\" OR \"Romantic Comedy\" OR  \"Romantic Comedie\" OR \"Rom-Coms\" OR \"Romantic Fiction\""
+  },
+  {
+    "trigger": "'Jo Nesbø'",
+    "query": "Nesbo"
+  },
+  {
+    "trigger": "Nesbø",
+    "query": "'Jo Nesbo'"
+  },
+  {
+    "trigger": "podcasts",
+    "query": "podcast"
+  }
+]
