@@ -5068,5 +5068,11 @@
         "municipality": {
             "kommunenr": "561"
         }
+    },
+	"281902": {
+        "id": "281902",
+        "municipality": {
+            "kommunenr": "101"
+        }
     }
 }
