@@ -5074,5 +5074,11 @@
         "municipality": {
             "kommunenr": "101"
         }
+    },
+	"185015": {
+        "id": "185015",
+        "municipality": {
+            "kommunenr": "185"
+        }
     }
 }
