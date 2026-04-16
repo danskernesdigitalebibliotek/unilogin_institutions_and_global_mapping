@@ -5080,5 +5080,71 @@
         "municipality": {
             "kommunenr": "185"
         }
-    }
+    },
+	"171002": {
+        "id": "171002",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"171004": {
+        "id": "171004",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },	
+	"237004": {
+        "id": "237004",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"237006": {
+        "id": "237006",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"235003": {
+        "id": "235003",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"235007": {
+        "id": "235007",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"235001": {
+        "id": "235001",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"235004": {
+        "id": "235004",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"281081": {
+        "id": "281081",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"237003": {
+        "id": "237003",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    },
+	"237007": {
+        "id": "237007",
+        "municipality": {
+            "kommunenr": "240"
+        }
+    }	
 }
