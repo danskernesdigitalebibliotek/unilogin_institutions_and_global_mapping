@@ -5140,5 +5140,11 @@
         "municipality": {
             "kommunenr": "240"
         }
-    }	
+    },
+	"733001": {
+        "id": "733001",
+        "municipality": {
+            "kommunenr": "706"
+        }
+    }
 }
