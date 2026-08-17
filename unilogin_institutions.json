@@ -2579,16 +2579,10 @@
             "kommunenr": "430"
         }
     },
-    "435006": {
-        "id": "435006",
-        "municipality": {
-            "kommunenr": "479"
-        }
-    },
     "449002": {
-        "id": "449002",
+       "id": "449002",
         "municipality": {
-            "kommunenr": "450"
+        "kommunenr": "450"
         }
     },
     "449007": {
