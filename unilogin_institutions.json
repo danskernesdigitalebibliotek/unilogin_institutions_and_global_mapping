@@ -5140,5 +5140,11 @@
         "municipality": {
             "kommunenr": "706"
         }
+    },
+	"282222": {
+        "id": "282222",
+        "municipality": {
+            "kommunenr": "710"
+        }
     }
 }
